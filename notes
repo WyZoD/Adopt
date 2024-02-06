@@ -1,0 +1,11 @@
+Prettier: npm install --save-dev prettier
+    1. .prettierrc
+
+Eslint:  npm install eslint-plugin-react@latest --save-dev
+    1. .eslintrc.json
+
+Vite: npm i vite@3.1.4 @vitejs/plugin-react@2.1.0
+    1. vite.config.js
+
+
+ npm i react@18.2.0 react-dom@18.2.0

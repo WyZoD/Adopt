@@ -12,3 +12,7 @@ npm install -D eslint-plugin-import@2.26.0 eslint-plugin-jsx-a11y@6.6.1 eslint-p
 npm install -D eslint-plugin-react-hooks@4.6.0 //catches bad hooks usage
 
 router: npm install react-router-dom@6.4.1
+
+remove useeffects usage: npm install @tanstack/react-query@4.10.1
+
+deploy code: Netlify, Vercel, Azure Static Web Apps, Google Firebase, AWS Amplify
